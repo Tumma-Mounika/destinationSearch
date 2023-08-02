@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.card-container {
+  list-style-type: none;
+  width: 250px;
+  font-family: open sans;
+  padding: 5px;
+}
+.image-card {
+  height: 150px;
+  width: 200px;
+}
+.name {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
